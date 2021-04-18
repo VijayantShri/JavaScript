@@ -7,5 +7,6 @@ Worderful App!!! Please use it.
 
 ## 2. Dynamic To Do List App
 
-App to create to do list. Technology used is HTML, CSS, jQuery.
-Simple implementation of jQuery to demonstrate the hands with it.
+* App to create to do list. Technology used is HTML, CSS, jQuery.
+* Simple implementation of jQuery to demonstrate the hands with it.
+* Create your own to do list and do the work accordingly.
