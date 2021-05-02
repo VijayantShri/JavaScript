@@ -1,8 +1,8 @@
 const input = document.getElementById('inp');
 const info = document.getElementById('info');
 function getTemp(city){
-
-    fetch(`http://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=ac9138ce15c40393ddf204ff0cc3613d`)
+    aid = // Get your id from authentication library.
+    fetch(`http://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${aid}`)
         .then((res) => {
             return res.json();
         })
