@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-image: url("https://images.unsplash.com/photo-1619491318496-6bca893bf1a0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=722&w=1537&q=80");
+    background-repeat: no-repeat;
+}
+
+div input{
+    margin: 20px auto;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    box-shadow: 2px 3px gray;
+    height: 50px;
+    font-family: 'Bitter', serif;
+    font-size: 30px;
+    text-align: center;
+}
